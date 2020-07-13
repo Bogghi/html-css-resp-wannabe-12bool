@@ -21,6 +21,10 @@
     float: left;
 }
 
+[class*="offset-"]{
+    float: left;
+}
+
 /* large column for desktop */
 @media screen and (min-width: 992px) {
     .col-lg-1 {
@@ -143,3 +147,4 @@
     }
 }
 /* /extra small column for smartphone */
+

@@ -1,13 +1,14 @@
 /* debug section */
 
-[class*="col-"]{
+/*[class*="col-"]{
   background-color: grey;
   height: 300px;
   border: 1px red solid;
-}
+}*/
 
 /* /debug section */
 
 img {
-  height: 400px;
+  height: 300px;
+  padding: 50px 0px;
 }
