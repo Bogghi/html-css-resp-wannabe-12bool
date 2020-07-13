@@ -12,3 +12,27 @@ img {
   height: 300px;
   padding: 50px 0px;
 }
+
+h1 {
+  line-height: 120px;
+}
+
+.grey {
+  background-color: #f9f9f9;
+}
+
+.spacer {
+  height: 50px;
+}
+
+.blue-circle {
+  background-color: #428bca;
+  border-radius: 100%;
+  height: 300px;
+  width: 300px;
+}
+
+hr {
+  border: black 1px solid;
+  margin: 5% 0%;
+}
